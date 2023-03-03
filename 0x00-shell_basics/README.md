@@ -7,6 +7,6 @@
 * All your scripts must be executable. To make your file executable, use the chmod command: chmod u+x file.
 
 ## Tasks
-###* 0. Where am I?
+### * 0. Where am I?
  A script that prints the absolute path name of the current working directory.
  File: 0-current_working_directory
